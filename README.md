@@ -2,6 +2,7 @@
 Built an end-to-end Power BI dashboard analyzing business performance, returns, and market trends. Includes KPIs, time analysis, category insights, and geographic distribution to uncover key drivers of revenue and returns.
 
 🚴‍♂️ AdventureWorks Sales & Market Analysis Dashboard
+
 📌 Project Overview
 
 This project presents an end-to-end Power BI dashboard analyzing business performance, product returns, and global market trends using the AdventureWorks dataset.
@@ -9,15 +10,25 @@ This project presents an end-to-end Power BI dashboard analyzing business perfor
 The dashboard is designed to answer key business questions such as:
 
 How is the business performing over time?
+
 Where are returns coming from?
+
 Which markets and customers drive the most revenue?
+
 📊 Key Highlights
+
 💰 Total Revenue: ₹24.91M
+
 📈 Total Profit: ₹10.46M
+
 🛒 Total Orders: 84,174
+
 🔁 Return Rate: 2.17%
+
 🌍 Top Market: United States (₹7.94M)
+
 📄 Dashboard Pages
+
 1️⃣ Business Overview
 
 Provides a high-level summary of performance:
@@ -50,16 +61,27 @@ Regional performance comparison
 📌 Insight: The USA and Australia together contribute over ₹15M, highlighting strong market concentration and opportunities for expansion in underperforming regions like Canada.
 
 🛠️ Tools & Techniques Used
+
 Power BI – Data visualization & dashboard design
+
 DAX – Measures like Return Rate, Revenue, Profit, AOV
+
 Data Modeling – Star schema with relationships
+
 Time Intelligence – Monthly trends & comparisons
+
 UI/UX Design – Consistent theme, layout, and storytelling
+
 🎯 Key Learnings
+
 Built a complete BI solution from raw data to insights
+
 Learned how to structure dashboards for storytelling
+
 Applied DAX for real-world business metrics
+
 Focused on design + usability, not just visuals
+
 🚀 Why This Project Matters
 
 This project demonstrates how data can be transformed into actionable business insights, helping stakeholders:
